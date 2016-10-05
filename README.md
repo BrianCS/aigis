@@ -68,7 +68,7 @@ Write following code on CSS comment block (<code>&#047;&#042; ~ &#042;&#047;</co
 
 It's easy to add Comments. For example.
 
-````yaml
+```yaml
 ---
 name: base button
 category: module/button
@@ -79,10 +79,11 @@ category: module/button
 * Base button style.
 * Use `a` or `button` tag.
 
-```html
+​```html
 <a class="btn">Button</a>
+​```
+
 ```
-````
 
 ## Running aigis
 
